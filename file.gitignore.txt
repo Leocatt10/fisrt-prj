@@ -1,7 +1,0 @@
-# Các biến môi trường nhạy cảm
-.env
-
-# Các thư mục rác của Python/Hệ điều hành
-__pycache__/
-*.py[cod]
-.DS_Store
